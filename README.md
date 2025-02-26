@@ -1,9 +1,10 @@
 # ChimpVid
 
-Simple and minimal short video generator with voice-over. Uses gemini, flux and elevenlabs. 
+Simple and minimal short video generator with voice-over. Uses gemini, flux and elevenlabs.  
 Download `ffmpeg` beforehand.
 
 ## Demo
+https://github.com/user-attachments/assets/abca8c12-0e88-4b62-9c6f-c5810ce039b4
 
 ## Installation
 
@@ -55,12 +56,12 @@ worker.flush()
 
 ## Dependencies
 
-**ElevenLabs:** For text-to-speech conversion.
-**Gemini AI:** For generating viral script content.
-**Cloudflare API:** For generating stylized images.
-**Pillow:** For image processing.
-**MoviePy & Pydub:** For video and audio processing.
-**python-dotenv:** For managing environment variables.
+**ElevenLabs:** For text-to-speech conversion.  
+**Gemini AI:** For generating viral script content.  
+**Cloudflare API:** For generating stylized images.  
+**Pillow:** For image processing.  
+**MoviePy & Pydub:** For video and audio processing.  
+**python-dotenv:** For managing environment variables.  
 
 
 
